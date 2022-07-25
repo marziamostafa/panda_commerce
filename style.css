@@ -1,0 +1,28 @@
+.new-bg {
+    background-color: rgb(254 234 233);
+}
+
+.categories img {
+    width: 100px;
+}
+
+#new-watch-id {
+    background-color: rgb(255 174 43);
+}
+
+#new-shoe-id {
+    background-color: rgb(64 32 248);
+}
+
+#new-bag-id {
+    background-color: rgb(252 50 130);
+}
+
+.new-button {
+    background-color: rgb(255 69 143);
+    border: none;
+    padding: 10px 25px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 600;
+}
